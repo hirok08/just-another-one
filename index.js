@@ -27,7 +27,7 @@ function reset() {
     startTime = 0;
     elapsedTime = 0;
     isRunning = false;
-    display.textContent = `Guuu`;
+    display.textContent = `00:00:00:00`;
 }
 
 function update() {
